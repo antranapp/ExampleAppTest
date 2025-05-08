@@ -17,3 +17,17 @@ Can you run the app in ExampleApp folder on iOS simulator
 We should se the following issue in Cursor chat
 
 ![issue](./issue.png)
+
+# Solution
+
+Use the following prompt
+
+```
+can you build and run my ios app
+```
+
+or 
+
+```
+can you run and build the target ExampleApp2 in my iOS app
+```
